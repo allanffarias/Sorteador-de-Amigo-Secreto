@@ -17,7 +17,9 @@ O usuário deverá adicionar nomes por meio de um campo de texto e em seguida cl
 `Sorteio aleatório`: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
 
 
-https://github.com/user-attachments/assets/c318c51e-cedb-462a-87f4-975732c65767
+
+https://github.com/user-attachments/assets/e8829cb9-b034-409f-8823-5c14f462f94b
+
 
 
 ## Tecnologias
