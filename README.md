@@ -18,7 +18,11 @@ O usuário deverá adicionar nomes por meio de um campo de texto e em seguida cl
 
 
 
-https://github.com/user-attachments/assets/e8829cb9-b034-409f-8823-5c14f462f94b
+
+
+https://github.com/user-attachments/assets/fe352a8e-2f5e-4681-8eb7-b8de6746da16
+
+
 
 
 
